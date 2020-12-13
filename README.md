@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?up_message=up&url=https%3A%2F%2Fbalaurl.work%2F)](https://balaurl.work/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Student, Web Developer, UI/UX Designer and Analog Photographer!
+## I'm an IT Student, Web Developer, UI/UX Designer and Analog Photographer!
 
 - 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
 - 🌱 I’m currently learning React and Node.JS
@@ -24,6 +24,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
 <br />
 
@@ -51,8 +54,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details> -->
-
-[email]: 
+[dribbble]: https://dribbble.com/balaurl
+[flickr]: https://www.flickr.com/photos/159338522@N05/
+[behance]: https://www.behance.net/balaurl
 [magazine]: https://balaurl.work/miscellaneous.html/
 [website]: https://balaurl.work/
 [shop]: https://shop.balaurl.work/
