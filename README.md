@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotifygithub-git-master.balanmihai.vercel.app/api/spotify-playing" alt="Balaurl's Spotify Playing" width="350" />](https://open.spotify.com/user/21cviemxde3iwvbygigyq7kxy?si=Ox8WcktESFWRah0JYd9q1A)
+[![Spotify](https://spotifygithub.vercel.app/api/spotify)](https://open.spotify.com/user/21cviemxde3iwvbygigyq7kxy?si=Ox8WcktESFWRah0JYd9q1A)
 
 ### Connect with me:
 
