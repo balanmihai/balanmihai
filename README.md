@@ -1,6 +1,6 @@
 ### Hi there, I'm Mihai Balan - aka [balaurl][website] 👋
 
-[![Website](https://img.shields.io/website?up_message=up&url=https%3A%2F%2Fbalaurl.work%2F)](https://balaurl.work/)
+[![Website](https://img.shields.io/website?down_message=off&label=balaurl.work&up_message=on&url=https%3A%2F%2Fbalaurl.work%2F)](https://balaurl.work/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm an IT Student, Web Developer, UI/UX Designer and Analogue Photographer!
@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotifygithub.vercel.app/api/spotify-playing" alt="balaurl's Spotify Playing" width="350" />](https://open.spotify.com/user/21cviemxde3iwvbygigyq7kxy?si=Ox8WcktESFWRah0JYd9q1A)
+[<img src="https://spotifygithub.vercel.app/api/spotify-playing" alt="Balaurl's Spotify Playing" width="350" />](https://open.spotify.com/user/21cviemxde3iwvbygigyq7kxy?si=Ox8WcktESFWRah0JYd9q1A)
 
 ### Connect with me:
 
