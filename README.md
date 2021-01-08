@@ -6,7 +6,7 @@
 
 - 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
 - 🌱 I’m currently learning React and Node.JS
-- 👨🏻‍💻 Working as a Developer and Designer Freelancer
+- 👨🏻‍💻 Working as a Developer and Digital Design Freelancer
 - 🥅 2021 Goals: More Crazy and Inovative Projects
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
 - 📷 I'm an [Analogue Film Photographer][gallery]
