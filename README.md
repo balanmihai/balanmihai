@@ -55,7 +55,7 @@
 [dribbble]: https://dribbble.com/balaurl
 [flickr]: https://www.flickr.com/photos/159338522@N05/
 [behance]: https://www.behance.net/balaurl
-[magazine]: https://balaurl.work/miscellaneous.html/
+[magazine]: https://balaurl.work/miscellaneous.html
 [website]: https://balaurl.work/
 [shop]: https://shop.balaurl.work/
 [instagram]: https://instagram.com/bala.url
