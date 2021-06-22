@@ -11,7 +11,7 @@
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
 - 📷 I'm an [Analogue Film Photographer][gallery]
 - 🥁 I play in an Experimental Jazz Band as a Drummer
-- 💻 My Lastest Project is: [Website of Tudor Monroe][project]
+- 💻 My Latest Project is: [Website of Deea Dita][project]
 - 💬 Ask Me Anything at contact@balaurl.work
 
 ### Spotify Playing 🎧
@@ -62,4 +62,4 @@
 [linkedin]: https://www.linkedin.com/in/mihai-balan-07665a155/
 [upb]: https://upb.ro/en/
 [gallery]: https://balaurl.work/gallery.html
-[project]: http://www.tudormonroe.com/
+[project]: https://www.deeadita.com/
