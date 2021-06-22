@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_message=off&label=balaurl.work&up_message=on&url=https%3A%2F%2Fbalaurl.work%2F)](https://balaurl.work/)
 
-## I'm an IT Student, Web Developer, UI/UX Designer and Analogue Photographer!
+## I'm an IT Student, Web Developer and UI/UX Designer!
 
 - 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
 - 🌱 I’m currently learning React and Node.JS
