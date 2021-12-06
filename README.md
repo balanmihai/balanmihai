@@ -5,7 +5,7 @@
 ## I'm an IT Student, Web Developer and UI/UX Designer!
 
 - 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
-- 🌱 I’m currently learning React and Node.JS
+- 🌱 I’m currently learning React and Spring
 - 👨🏻‍💻 Working as a Developer and Digital Design Freelancer
 - 🥅 2021 Goals: More Crazy and Inovative Projects
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
