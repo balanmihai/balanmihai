@@ -7,7 +7,7 @@
 - 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
 - 🌱 I’m currently learning React and Spring
 - 👨🏻‍💻 Working as a Developer and Digital Design Freelancer
-- 🥅 2022 Goals: More Crazy and Inovative Projects
+- 🥅 2024 Goals: More Crazy and Inovative Projects
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
 - 📷 I'm an [Analogue Film Photographer][gallery]
 - 🥁 I play in an Experimental Jazz Band as a Drummer
