@@ -2,17 +2,17 @@
 
 [![Website](https://img.shields.io/website?down_message=off&label=balaurl.work&up_message=on&url=https%3A%2F%2Fbalaurl.work%2F)](https://balaurl.work/)
 
-## I'm an IT Student, Web Developer and UI/UX Designer!
+## I'm a Web Developer, UI/UX Designer and High Altitude Climber!
 
-- 👨🏻‍🎓 I am an Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
-- 🌱 I’m currently learning React and Spring
-- 👨🏻‍💻 Working as a Developer and Digital Design Freelancer
-- 🥅 2024 Goals: More Crazy and Inovative Projects
+- 👨🏻‍🎓 GRADUATED: Electronics, Telecommunications and IT Student (English) at [UPB Bucharest][upb]
+- 🌱 I’m currently in love with Redux global state management
+- 👨🏻‍💻 Working as a Developer at eSolutions Romania and Digital Design Freelancer
+- 🥅 2025 Goals: More Crazy and Inovative Projects and Kilimanjaro
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
 - 📷 I'm an [Analogue Film Photographer][gallery]
 - 🥁 I play in an Experimental Jazz Band as a Drummer
 - 💻 My Latest Project is: [Website of Deea Dita][project]
-- 💬 Ask Me Anything at contact@balaurl.work
+- 💬 Ask Me Anything at mihai.balan.bala@gmail.com
 
 ### Spotify Playing 🎧
 
