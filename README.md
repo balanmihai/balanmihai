@@ -11,7 +11,6 @@
 - 📚 I just launched my first Photography Magazine: [Miscellaneous][magazine]!
 - 📷 I'm an [Analogue Film Photographer][gallery]
 - 🥁 I play in an Experimental Jazz Band as a Drummer
-- 💻 My Latest Project is: [Website of Deea Dita][project]
 - 💬 Ask Me Anything at mihai.balan.bala@gmail.com
 
 ### Spotify Playing 🎧
